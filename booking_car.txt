@@ -1,0 +1,7 @@
+Book11;2021-06-16;mem1;naim;car6;9Days;RM900
+Book12;2021-06-12;mem1;naim;car5;2Days;RM900
+Book13;2021-06-14;mem3;jahid;car1;12Days;RM12000
+Book14;2021-06-17;mem5;Usman;car2;5Days;RM600
+Book5;2021-06-10;mem6;Xing;car6;4Days;RM800
+Book6;2021-06-18;mem5;Usman;car5;3Days;RM540
+Book7;2021-06-29;mem8;Hasib;car7;4Days;RM400

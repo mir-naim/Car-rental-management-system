@@ -1,0 +1,4 @@
+pay9;2021-06-10;Xing;mem6;Book5;4Days;RM800Paid
+pay10;2021-06-12;Xing;mem6;Book5;4Days;RM800Paid
+pay3;2021-06-18;Usman;mem5;Book6;3Days;RM540Paid
+pay4;2021-06-29;Hasib;mem8;Book7;4Days;RM400Paid
